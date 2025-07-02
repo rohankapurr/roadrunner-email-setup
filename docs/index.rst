@@ -7,7 +7,7 @@ How to Setup Roadrunner Email?: A Complete Guide  📧
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: contact1.png
+.. image:: getstarted.png
    :alt: My Project Logo
    :width: 400px
    :align: center
